@@ -1,0 +1,12 @@
+
+                   nagomi shoyu                    '01-count': 9,132.00, '02-revenue': 100,452.00, '03-cogs': 45,660.0, '04-profit': 54,792.00
+                    shio ramen                     '01-count': 9,180.00, '02-revenue': 100,980.00, '03-cogs': 45,900.0, '04-profit': 55,080.00
+                 spicy miso ramen                  '01-count': 9,238.00, '02-revenue': 110,856.00, '03-cogs': 46,190.0, '04-profit': 64,666.00
+              vegetarian spicy miso                '01-count': 9,216.00, '02-revenue': 110,592.00, '03-cogs': 46,080.0, '04-profit': 64,512.00
+                 miso crab ramen                   '01-count': 8,890.00, '02-revenue': 106,680.00, '03-cogs': 53,340.0, '04-profit': 53,340.00
+            soft-shell miso crab ramen             '01-count': 9,130.00, '02-revenue': 127,820.00, '03-cogs': 63,910.0, '04-profit': 63,910.00
+                tori paitan ramen                  '01-count': 9,156.00, '02-revenue': 119,028.00, '03-cogs': 54,936.0, '04-profit': 64,092.00
+                  tonkotsu ramen                   '01-count': 9,288.00, '02-revenue': 120,744.00, '03-cogs': 55,728.0, '04-profit': 65,016.00
+           burnt garlic tonkotsu ramen             '01-count': 9,070.00, '02-revenue': 126,980.00, '03-cogs': 54,420.0, '04-profit': 72,560.00
+  vegetarian curry + king trumpet mushroom ramen   '01-count': 8,824.00, '02-revenue': 114,712.00, '03-cogs': 61,768.0, '04-profit': 52,944.00
+               truffle butter ramen                '01-count': 8,982.00, '02-revenue': 125,748.00, '03-cogs': 62,874.0, '04-profit': 62,874.00

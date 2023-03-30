@@ -1,0 +1,9 @@
+
+                             Financial Analysis                             
+----------------------------------------------------------------------------
+
+Total Months:                  86
+Total Balance:         38,382,578
+Average change:         -2,315.12
+Greatest Increase in Profit was on: Feb-2012 in the amount of $   1,926,159
+Greatest Decrease in Profit was on: Sep-2013 in the amount of $  -2,196,167
